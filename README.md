@@ -10,10 +10,10 @@ How to use:
 4. In idList.txt place with only a comma in between your id and your starting max price (554320000,9000)
 5. Run the program and you're done
 
-Functionalities:
-/start checks for autorized ids
-/help helps you with the sintax of max price setting
-to set max price: max price YOURNUMBER
+Functionalities:<br />
+/start checks for autorized ids<br />
+/help helps you with the sintax of max price setting<br />
+to set max price: max price YOURNUMBER<br />
 
 The code can easily be broken by putting negative numbers or something like that so don't break it pls.
 
