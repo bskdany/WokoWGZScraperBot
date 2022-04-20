@@ -16,3 +16,5 @@ Functionalities:
 to set max price: max price YOURNUMBER
 
 The code can easily be broken by putting negative numbers or something like that so don't break it pls.
+
+A guide to host the bot on Heroku: https://youtu.be/BPvg9bndP1U
