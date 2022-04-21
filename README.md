@@ -18,3 +18,6 @@ to set max price: max price YOURNUMBER<br />
 The code can easily be broken by putting negative numbers or something like that so don't break it pls.
 
 A guide to host the bot on Heroku: https://youtu.be/BPvg9bndP1U
+
+Known bugs:
+1. The max price setting for every user will reset if you reupload the files to the server
