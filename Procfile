@@ -1,1 +1,1 @@
-worker: python wokobot.py
+worker: python finalBot.py
